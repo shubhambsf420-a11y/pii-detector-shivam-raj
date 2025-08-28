@@ -21,6 +21,4 @@ The project is divided into two parts:
 - Works directly on JSON stored inside CSV columns.  
 - Lightweight (uses only Python standard library).  
 
----
 
-## File Structure
